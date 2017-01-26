@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: 6
+Bundle-SymbolicName: WiiMando
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: 6.jar,
+ Jorge/Os meus documentos/workspace/WiiRemoteJ v1.6/bluecove-2.1.0.jar,
+ Jorge/Os meus documentos/workspace/WiiRemoteJ v1.6/WiiRemoteJ.jar,
+ Jorge/Os meus documentos/workspace/WiiRemoteJ v1.6/BrowserLauncher2-1_3.jar
+Export-Package: docs,
+ docs.resources,
+ docs.wiiremotej,
+ docs.wiiremotej.event,
+ icons,
+ wiimando.gui,
+ wiimando.model
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
